@@ -1,0 +1,12 @@
+{
+  "name": "echo-analyzer-mdx",
+  "version": "1.0.0",
+  "description": "CLI tool by @RosyDisarm",
+  "bin": {
+    "echo-analyzer-mdx": "./bin/cli.js"
+  },
+  "type": "module",
+  "author": "RosyDisarm",
+  "license": "MIT",
+  "dependencies": {}
+}
