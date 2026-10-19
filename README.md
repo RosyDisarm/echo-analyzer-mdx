@@ -1,2 +1,10 @@
-# echo-analyzer-mdx
-Echo Analyzer Mdx - Handy developer CLI utility engineered by @RosyDisarm
+# Echo Analyzer Mdx
+
+A clean CLI tool for quick workflow automation.
+
+Author: [@RosyDisarm](https://github.com/RosyDisarm)
+
+### Usage
+```bash
+npx echo-analyzer-mdx --help
+```
